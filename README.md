@@ -9,8 +9,8 @@
 
 <br><br>
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCastelo-31&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&include_all_commits=true&count_private=false&locale=pt-BR" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCastelo-31&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR">  
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCastelo-31&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCastelo-31&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR&exclude_repo=AP1-EC-Sistema-de-gestao-financeira,">  
   <br><br>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCastelo-31&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https://github.com/GabrielCastelo-31/github-readme-activity-graph)
